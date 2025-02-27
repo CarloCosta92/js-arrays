@@ -43,6 +43,8 @@ for (let i = 0; i < teachers.length; i++) {
 
 console.log(newTeachers);
 
+//oppure usare splice
+
 // 4. Verifica se 'Fabio' è presente nell'array teachers
 // e salva il risultato nella variabile isFabioPresent
 let isFabioPresent = true;
@@ -55,6 +57,8 @@ for (let i = 0; i < teachers.length; i++) {
   }
 }
 console.log(isFabioPresent);
+
+
 
 
 

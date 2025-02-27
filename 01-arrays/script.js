@@ -23,6 +23,9 @@ for (let i = 0; i < teachers.length; i++) {
   console.log(teachers[i]);
 }
 
+//teachers[4]= 'Patrick'
+// console.log(teachers)
+
 // 3. Rimuovi l'ultimo insegnante dall'array e salvalo nella variabile lastTeacher qui sotto
 const lastTeacher = teachers.pop();
 console.log(teachers);
